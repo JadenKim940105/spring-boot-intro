@@ -10,4 +10,4 @@
   4. Spring Boot JPA
 * H2 DB 사용
 * AOP 를 활용해 로직 수행시간을 로깅
-
+* Junit5 를 활용한 테스트 코드 작성 
